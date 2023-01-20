@@ -29,6 +29,7 @@ public class Formab implements Serializable {
 
 	private String datumazurnosti;
 
+
 	private String greska;
 
 	private String katastarskaopstina;
